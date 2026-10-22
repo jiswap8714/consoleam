@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>후라 앱 무료 테스트 참여</title>
+<style>body{font-family:-apple-system,"Noto Sans KR",sans-serif;max-width:640px;margin:0 auto;padding:20px 16px;line-height:1.7;color:#222;background:#fafafa}
+h1{font-size:1.4em}.step{background:#fff;border:1px solid #e3e3e3;border-radius:12px;padding:12px 14px;margin:10px 0}
+.btn,.btn2{display:inline-block;margin:6px 6px 6px 0;padding:10px 16px;border-radius:8px;text-decoration:none;font-weight:700}
+.btn{background:#1a73e8;color:#fff}.btn2{background:#e8f0fe;color:#1a73e8}.app{display:flex;gap:12px;align-items:flex-start}
+.app img{border-radius:14px;flex:0 0 auto}small{color:#666}</style></head><body>
+<h1>📱 후라 앱 무료 테스트에 참여해 주세요</h1>
+<p>새로 만든 무료 앱을 Google Play에 정식 공개하려면 테스터 12명이 14일 동안 사용해 봐야 합니다. 안드로이드 폰만 있으면 1분이면 참여할 수 있어요.</p>
+<div class="step"><b>① 테스터 그룹 가입</b><br><a class="btn" href="https://groups.google.com/g/hurang-testers">그룹 가입하기</a><br>
+<small>Google 계정으로 로그인 → [그룹 가입] 누르기 (hurang-testers@googlegroups.com)</small></div>
+<div class="step"><b>② 테스터 되기 → ③ 설치</b><br><small>그룹에 가입한 같은 Google 계정으로 누르세요. 설치 후 14일 동안만 지우지 말아 주세요.</small>
+<div class="app"><img src="com.autoapp.app57165.png" alt="" width="64" height="64"><div><b>여행 준비 노트</b><br><small>나만의 여행 기록과 꼼꼼한 준비</small><br>
+<a class="btn" href="https://play.google.com/apps/testing/com.autoapp.app57165">② 테스터 되기</a>
+<a class="btn2" href="https://play.google.com/store/apps/details?id=com.autoapp.app57165">③ 설치하기</a>
+<small><a href="com.autoapp.app57165.html">개인정보처리방침</a></small></div></div></div>
+<div class="step"><small>앱은 모두 무료이며 이름·연락처 같은 개인정보를 수집하지 않습니다(메모 등은 기기 안에만 저장, 광고 표시).
+의견·문의: <a href="mailto:zerorecker@gmail.com">zerorecker@gmail.com</a></small></div>
+</body></html>
